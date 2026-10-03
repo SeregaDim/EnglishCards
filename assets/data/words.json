@@ -1,0 +1,1188 @@
+[
+ {
+  "title": "Глаголы",
+  "gradientColors": ["#5B8DF6", "#2C4AC7"],
+  "cards": [
+    {
+      "word": "go",
+      "transcription": "ɡoʊ",
+      "translation": "идти, ходить",
+      "exampleEn": "I go to school every day.",
+      "exampleRu": "Я хожу в школу каждый день."
+    },
+    {
+      "word": "have",
+      "transcription": "hæv",
+      "translation": "иметь",
+      "exampleEn": "I have a big family.",
+      "exampleRu": "У меня большая семья."
+    },
+    {
+      "word": "take",
+      "transcription": "teɪk",
+      "translation": "брать",
+      "exampleEn": "Take this book, please.",
+      "exampleRu": "Возьми эту книгу, пожалуйста."
+    },
+    {
+      "word": "see",
+      "transcription": "siː",
+      "translation": "видеть",
+      "exampleEn": "I see a bird in the sky.",
+      "exampleRu": "Я вижу птицу в небе."
+    },
+    {
+      "word": "do",
+      "transcription": "duː",
+      "translation": "делать",
+      "exampleEn": "What do you do on weekends?",
+      "exampleRu": "Что ты делаешь по выходным?"
+    },
+    {
+      "word": "come",
+      "transcription": "kʌm",
+      "translation": "приходить, приезжать",
+      "exampleEn": "Come here, please.",
+      "exampleRu": "Подойди сюда, пожалуйста."
+    },
+    {
+      "word": "make",
+      "transcription": "meɪk",
+      "translation": "делать, создавать",
+      "exampleEn": "She makes breakfast every morning.",
+      "exampleRu": "Она готовит завтрак каждое утро."
+    },
+    {
+      "word": "get",
+      "transcription": "ɡet",
+      "translation": "получать, получать/доставать, становиться",
+      "exampleEn": "I need to get some water.",
+      "exampleRu": "Мне нужно достать немного воды."
+    },
+    {
+      "word": "give",
+      "transcription": "ɡɪv",
+      "translation": "давать",
+      "exampleEn": "Give me your phone.",
+      "exampleRu": "Дай мне свой телефон."
+    },
+    {
+      "word": "know",
+      "transcription": "noʊ",
+      "translation": "знать",
+      "exampleEn": "I know the answer.",
+      "exampleRu": "Я знаю ответ."
+    },
+    {
+      "word": "think",
+      "transcription": "θɪŋk",
+      "translation": "думать, считать",
+      "exampleEn": "I think you are right.",
+      "exampleRu": "Я думаю, что ты прав."
+    },
+    {
+      "word": "want",
+      "transcription": "wɑːnt",
+      "translation": "хотеть",
+      "exampleEn": "I want some coffee.",
+      "exampleRu": "Я хочу кофе."
+    },
+    {
+      "word": "need",
+      "transcription": "niːd",
+      "translation": "нуждаться, нуждаться в",
+      "exampleEn": "I need your help.",
+      "exampleRu": "Мне нужна твоя помощь."
+    },
+    {
+      "word": "look",
+      "transcription": "lʊk",
+      "translation": "смотреть, выглядеть",
+      "exampleEn": "Look at this picture.",
+      "exampleRu": "Посмотри на эту картинку."
+    },
+    {
+      "word": "use",
+      "transcription": "juːz",
+      "translation": "использовать",
+      "exampleEn": "I use my phone every day.",
+      "exampleRu": "Я использую свой телефон каждый день."
+    },
+    {
+      "word": "find",
+      "transcription": "faɪnd",
+      "translation": "находить",
+      "exampleEn": "I can't find my keys.",
+      "exampleRu": "Я не могу найти свои ключи."
+    },
+    {
+      "word": "tell",
+      "transcription": "tel",
+      "translation": "рассказывать, говорить",
+      "exampleEn": "Tell me the truth.",
+      "exampleRu": "Скажи мне правду."
+    },
+    {
+      "word": "ask",
+      "transcription": "æsk",
+      "translation": "спрашивать, просить",
+      "exampleEn": "I want to ask you something.",
+      "exampleRu": "Я хочу тебя кое о чём спросить."
+    },
+    {
+      "word": "work",
+      "transcription": "wɜːrk",
+      "translation": "работать",
+      "exampleEn": "I work from home.",
+      "exampleRu": "Я работаю из дома."
+    },
+    {
+      "word": "try",
+      "transcription": "traɪ",
+      "translation": "пробовать, пытаться",
+      "exampleEn": "Try again.",
+      "exampleRu": "Попробуй ещё раз."
+    },
+    {
+      "word": "feel",
+      "transcription": "fiːl",
+      "translation": "чувствовать",
+      "exampleEn": "I feel much better today.",
+      "exampleRu": "Сегодня я чувствую себя намного лучше."
+    },
+    {
+      "word": "become",
+      "transcription": "bɪˈkʌm",
+      "translation": "становиться",
+      "exampleEn": "He wants to become a doctor.",
+      "exampleRu": "Он хочет стать врачом."
+    },
+    {
+      "word": "leave",
+      "transcription": "liːv",
+      "translation": "уходить, оставлять",
+      "exampleEn": "I have to leave now.",
+      "exampleRu": "Мне нужно сейчас уходить."
+    },
+    {
+      "word": "put",
+      "transcription": "pʊt",
+      "translation": "класть, помещать",
+      "exampleEn": "Put the book on the table.",
+      "exampleRu": "Положи книгу на стол."
+    },
+    {
+      "word": "mean",
+      "transcription": "miːn",
+      "translation": "означать, иметь в виду",
+      "exampleEn": "What does this word mean?",
+      "exampleRu": "Что означает это слово?"
+    },
+    {
+      "word": "keep",
+      "transcription": "kiːp",
+      "translation": "держать, хранить, продолжать",
+      "exampleEn": "Keep the door closed.",
+      "exampleRu": "Держи дверь закрытой."
+    },
+    {
+      "word": "let",
+      "transcription": "let",
+      "translation": "позволять",
+      "exampleEn": "Let me help you.",
+      "exampleRu": "Позволь мне помочь тебе."
+    },
+    {
+      "word": "begin",
+      "transcription": "bɪˈɡɪn",
+      "translation": "начинать",
+      "exampleEn": "The lesson begins at nine.",
+      "exampleRu": "Урок начинается в девять."
+    },
+    {
+      "word": "seem",
+      "transcription": "siːm",
+      "translation": "казаться",
+      "exampleEn": "You seem tired.",
+      "exampleRu": "Ты кажешься уставшим."
+    },
+    {
+      "word": "help",
+      "transcription": "help",
+      "translation": "помогать",
+      "exampleEn": "Can you help me?",
+      "exampleRu": "Ты можешь мне помочь?"
+    },
+    {
+      "word": "talk",
+      "transcription": "tɔːk",
+      "translation": "разговаривать",
+      "exampleEn": "We need to talk.",
+      "exampleRu": "Нам нужно поговорить."
+    },
+    {
+      "word": "turn",
+      "transcription": "tɜːrn",
+      "translation": "поворачивать, поворачиваться",
+      "exampleEn": "Turn left at the next street.",
+      "exampleRu": "Поверни налево на следующей улице."
+    },
+    {
+      "word": "start",
+      "transcription": "stɑːrt",
+      "translation": "начинать",
+      "exampleEn": "Let's start the meeting.",
+      "exampleRu": "Давайте начнём встречу."
+    },
+    {
+      "word": "show",
+      "transcription": "ʃoʊ",
+      "translation": "показывать",
+      "exampleEn": "Show me how it works.",
+      "exampleRu": "Покажи мне, как это работает."
+    },
+    {
+      "word": "hear",
+      "transcription": "hɪr",
+      "translation": "слышать",
+      "exampleEn": "Can you hear me?",
+      "exampleRu": "Ты меня слышишь?"
+    },
+    {
+      "word": "play",
+      "transcription": "pleɪ",
+      "translation": "играть",
+      "exampleEn": "The children play outside.",
+      "exampleRu": "Дети играют на улице."
+    },
+    {
+      "word": "run",
+      "transcription": "rʌn",
+      "translation": "бегать, работать",
+      "exampleEn": "I run every morning.",
+      "exampleRu": "Я бегаю каждое утро."
+    },
+    {
+      "word": "move",
+      "transcription": "muːv",
+      "translation": "двигаться, двигать, переезжать",
+      "exampleEn": "Don't move this chair.",
+      "exampleRu": "Не двигай этот стул."
+    },
+    {
+      "word": "live",
+      "transcription": "lɪv",
+      "translation": "жить",
+      "exampleEn": "I live in a small town.",
+      "exampleRu": "Я живу в небольшом городе."
+    },
+    {
+      "word": "believe",
+      "transcription": "bɪˈliːv",
+      "translation": "верить",
+      "exampleEn": "I believe you.",
+      "exampleRu": "Я тебе верю."
+    },
+    {
+      "word": "bring",
+      "transcription": "brɪŋ",
+      "translation": "приносить, привозить",
+      "exampleEn": "Bring your documents tomorrow.",
+      "exampleRu": "Принеси свои документы завтра."
+    },
+    {
+      "word": "happen",
+      "transcription": "ˈhæpən",
+      "translation": "происходить, случаться",
+      "exampleEn": "What happened here?",
+      "exampleRu": "Что здесь произошло?"
+    },
+    {
+      "word": "write",
+      "transcription": "raɪt",
+      "translation": "писать",
+      "exampleEn": "Write your name here.",
+      "exampleRu": "Напиши здесь своё имя."
+    },
+    {
+      "word": "provide",
+      "transcription": "prəˈvaɪd",
+      "translation": "предоставлять, обеспечивать",
+      "exampleEn": "We provide free support.",
+      "exampleRu": "Мы предоставляем бесплатную поддержку."
+    },
+    {
+      "word": "sit",
+      "transcription": "sɪt",
+      "translation": "сидеть",
+      "exampleEn": "Please sit here.",
+      "exampleRu": "Пожалуйста, сядь здесь."
+    },
+    {
+      "word": "stand",
+      "transcription": "stænd",
+      "translation": "стоять",
+      "exampleEn": "Please stand here.",
+      "exampleRu": "Пожалуйста, стой здесь."
+    },
+    {
+      "word": "lose",
+      "transcription": "luːz",
+      "translation": "терять, проигрывать",
+      "exampleEn": "Don't lose your keys.",
+      "exampleRu": "Не потеряй свои ключи."
+    },
+    {
+      "word": "pay",
+      "transcription": "peɪ",
+      "translation": "платить",
+      "exampleEn": "I need to pay the bill.",
+      "exampleRu": "Мне нужно оплатить счёт."
+    },
+    {
+      "word": "meet",
+      "transcription": "miːt",
+      "translation": "встречать, встречаться",
+      "exampleEn": "Let's meet tomorrow.",
+      "exampleRu": "Давай встретимся завтра."
+    },
+    {
+      "word": "include",
+      "transcription": "ɪnˈkluːd",
+      "translation": "включать",
+      "exampleEn": "The price includes delivery.",
+      "exampleRu": "Цена включает доставку."
+    },
+    {
+      "word": "continue",
+      "transcription": "kənˈtɪnjuː",
+      "translation": "продолжать",
+      "exampleEn": "Please continue your work.",
+      "exampleRu": "Пожалуйста, продолжай свою работу."
+    },
+    {
+      "word": "set",
+      "transcription": "set",
+      "translation": "устанавливать, ставить",
+      "exampleEn": "Set the alarm for seven.",
+      "exampleRu": "Поставь будильник на семь."
+    },
+    {
+      "word": "learn",
+      "transcription": "lɜːrn",
+      "translation": "учить, изучать, узнавать",
+      "exampleEn": "I want to learn English.",
+      "exampleRu": "Я хочу выучить английский."
+    },
+    {
+      "word": "change",
+      "transcription": "tʃeɪndʒ",
+      "translation": "менять, изменять",
+      "exampleEn": "I need to change my password.",
+      "exampleRu": "Мне нужно изменить пароль."
+    },
+    {
+      "word": "lead",
+      "transcription": "liːd",
+      "translation": "вести",
+      "exampleEn": "She leads the team.",
+      "exampleRu": "Она руководит командой."
+    },
+    {
+      "word": "understand",
+      "transcription": "ˌʌndərˈstænd",
+      "translation": "понимать",
+      "exampleEn": "I don't understand this question.",
+      "exampleRu": "Я не понимаю этот вопрос."
+    },
+    {
+      "word": "watch",
+      "transcription": "wɑːtʃ",
+      "translation": "смотреть, наблюдать",
+      "exampleEn": "I watch TV in the evening.",
+      "exampleRu": "Я смотрю телевизор вечером."
+    },
+    {
+      "word": "follow",
+      "transcription": "ˈfɑːloʊ",
+      "translation": "следовать",
+      "exampleEn": "Follow me, please.",
+      "exampleRu": "Следуйте за мной, пожалуйста."
+    },
+    {
+      "word": "stop",
+      "transcription": "stɑːp",
+      "translation": "останавливать, останавливаться",
+      "exampleEn": "Stop the car here.",
+      "exampleRu": "Останови машину здесь."
+    },
+    {
+      "word": "create",
+      "transcription": "kriˈeɪt",
+      "translation": "создавать",
+      "exampleEn": "We need to create a new account.",
+      "exampleRu": "Нам нужно создать новый аккаунт."
+    },
+    {
+      "word": "speak",
+      "transcription": "spiːk",
+      "translation": "говорить",
+      "exampleEn": "Do you speak English?",
+      "exampleRu": "Ты говоришь по-английски?"
+    },
+    {
+      "word": "read",
+      "transcription": "riːd",
+      "translation": "читать",
+      "exampleEn": "I read books every evening.",
+      "exampleRu": "Я читаю книги каждый вечер."
+    },
+    {
+      "word": "allow",
+      "transcription": "əˈlaʊ",
+      "translation": "позволять, разрешать",
+      "exampleEn": "They don't allow smoking here.",
+      "exampleRu": "Здесь не разрешают курить."
+    },
+    {
+      "word": "add",
+      "transcription": "æd",
+      "translation": "добавлять",
+      "exampleEn": "Add some sugar, please.",
+      "exampleRu": "Добавь немного сахара, пожалуйста."
+    },
+    {
+      "word": "spend",
+      "transcription": "spend",
+      "translation": "тратить, проводить",
+      "exampleEn": "I spend a lot of time at work.",
+      "exampleRu": "Я провожу много времени на работе."
+    },
+    {
+      "word": "grow",
+      "transcription": "ɡroʊ",
+      "translation": "расти, выращивать",
+      "exampleEn": "Children grow very quickly.",
+      "exampleRu": "Дети растут очень быстро."
+    },
+    {
+      "word": "open",
+      "transcription": "ˈoʊpən",
+      "translation": "открывать, открываться",
+      "exampleEn": "Open the window, please.",
+      "exampleRu": "Открой окно, пожалуйста."
+    },
+    {
+      "word": "walk",
+      "transcription": "wɔːk",
+      "translation": "ходить пешком, гулять",
+      "exampleEn": "I walk to work every day.",
+      "exampleRu": "Я каждый день хожу на работу пешком."
+    },
+    {
+      "word": "win",
+      "transcription": "wɪn",
+      "translation": "побеждать, выигрывать",
+      "exampleEn": "Our team won the game.",
+      "exampleRu": "Наша команда выиграла игру."
+    },
+    {
+      "word": "offer",
+      "transcription": "ˈɔːfər",
+      "translation": "предлагать",
+      "exampleEn": "They offered me a job.",
+      "exampleRu": "Они предложили мне работу."
+    },
+    {
+      "word": "remember",
+      "transcription": "rɪˈmembər",
+      "translation": "помнить",
+      "exampleEn": "Remember to call me.",
+      "exampleRu": "Не забудь позвонить мне."
+    },
+    {
+      "word": "love",
+      "transcription": "lʌv",
+      "translation": "любить",
+      "exampleEn": "I love this song.",
+      "exampleRu": "Я люблю эту песню."
+    },
+    {
+      "word": "consider",
+      "transcription": "kənˈsɪdər",
+      "translation": "рассматривать, считать",
+      "exampleEn": "We need to consider all options.",
+      "exampleRu": "Нам нужно рассмотреть все варианты."
+    },
+    {
+      "word": "buy",
+      "transcription": "baɪ",
+      "translation": "покупать",
+      "exampleEn": "I need to buy some food.",
+      "exampleRu": "Мне нужно купить еды."
+    },
+    {
+      "word": "wait",
+      "transcription": "weɪt",
+      "translation": "ждать",
+      "exampleEn": "Wait for me here.",
+      "exampleRu": "Подожди меня здесь."
+    },
+    {
+      "word": "serve",
+      "transcription": "sɜːrv",
+      "translation": "обслуживать, подавать",
+      "exampleEn": "They serve breakfast until ten.",
+      "exampleRu": "Они подают завтрак до десяти."
+    },
+    {
+      "word": "die",
+      "transcription": "daɪ",
+      "translation": "умирать",
+      "exampleEn": "Plants die without water.",
+      "exampleRu": "Растения погибают без воды."
+    },
+    {
+      "word": "send",
+      "transcription": "send",
+      "translation": "отправлять",
+      "exampleEn": "Please send me the file.",
+      "exampleRu": "Пожалуйста, отправь мне файл."
+    },
+    {
+      "word": "expect",
+      "transcription": "ɪkˈspekt",
+      "translation": "ожидать",
+      "exampleEn": "I expect an answer tomorrow.",
+      "exampleRu": "Я ожидаю ответ завтра."
+    },
+    {
+      "word": "build",
+      "transcription": "bɪld",
+      "translation": "строить",
+      "exampleEn": "They want to build a new house.",
+      "exampleRu": "Они хотят построить новый дом."
+    },
+    {
+      "word": "stay",
+      "transcription": "steɪ",
+      "translation": "оставаться",
+      "exampleEn": "I want to stay at home.",
+      "exampleRu": "Я хочу остаться дома."
+    },
+    {
+      "word": "fall",
+      "transcription": "fɔːl",
+      "translation": "падать",
+      "exampleEn": "Be careful not to fall.",
+      "exampleRu": "Будь осторожен, чтобы не упасть."
+    },
+    {
+      "word": "cut",
+      "transcription": "kʌt",
+      "translation": "резать",
+      "exampleEn": "Cut the bread into small pieces.",
+      "exampleRu": "Разрежь хлеб на маленькие кусочки."
+    },
+    {
+      "word": "reach",
+      "transcription": "riːtʃ",
+      "translation": "достигать, добираться",
+      "exampleEn": "We reached the station at noon.",
+      "exampleRu": "Мы добрались до станции в полдень."
+    },
+    {
+      "word": "remain",
+      "transcription": "rɪˈmeɪn",
+      "translation": "оставаться",
+      "exampleEn": "Please remain calm.",
+      "exampleRu": "Пожалуйста, сохраняйте спокойствие."
+    },
+    {
+      "word": "suggest",
+      "transcription": "səˈdʒest",
+      "translation": "предлагать, советовать",
+      "exampleEn": "I suggest taking a taxi.",
+      "exampleRu": "Я предлагаю взять такси."
+    },
+    {
+      "word": "raise",
+      "transcription": "reɪz",
+      "translation": "поднимать",
+      "exampleEn": "Raise your hand if you know the answer.",
+      "exampleRu": "Подними руку, если знаешь ответ."
+    },
+    {
+      "word": "pass",
+      "transcription": "pæs",
+      "translation": "проходить, передавать",
+      "exampleEn": "Please pass me the salt.",
+      "exampleRu": "Передай мне соль, пожалуйста."
+    },
+    {
+      "word": "sell",
+      "transcription": "sel",
+      "translation": "продавать",
+      "exampleEn": "They sell fresh bread here.",
+      "exampleRu": "Здесь продают свежий хлеб."
+    },
+    {
+      "word": "require",
+      "transcription": "rɪˈkwaɪər",
+      "translation": "требовать",
+      "exampleEn": "This job requires experience.",
+      "exampleRu": "Эта работа требует опыта."
+    },
+    {
+      "word": "report",
+      "transcription": "rɪˈpɔːrt",
+      "translation": "сообщать, докладывать",
+      "exampleEn": "Please report the problem.",
+      "exampleRu": "Пожалуйста, сообщи о проблеме."
+    },
+    {
+      "word": "decide",
+      "transcription": "dɪˈsaɪd",
+      "translation": "решать, принимать решение",
+      "exampleEn": "We need to decide today.",
+      "exampleRu": "Нам нужно решить сегодня."
+    },
+    {
+      "word": "pull",
+      "transcription": "pʊl",
+      "translation": "тянуть",
+      "exampleEn": "Pull the door gently.",
+      "exampleRu": "Осторожно потяни дверь."
+    },
+    {
+      "word": "return",
+      "transcription": "rɪˈtɜːrn",
+      "translation": "возвращать, возвращаться",
+      "exampleEn": "I will return tomorrow.",
+      "exampleRu": "Я вернусь завтра."
+    },
+    {
+      "word": "explain",
+      "transcription": "ɪkˈspleɪn",
+      "translation": "объяснять",
+      "exampleEn": "Can you explain this to me?",
+      "exampleRu": "Ты можешь объяснить мне это?"
+    },
+    {
+      "word": "hope",
+      "transcription": "hoʊp",
+      "translation": "надеяться",
+      "exampleEn": "I hope you are right.",
+      "exampleRu": "Я надеюсь, что ты прав."
+    },
+    {
+      "word": "develop",
+      "transcription": "dɪˈveləp",
+      "translation": "развивать, разрабатывать",
+      "exampleEn": "They develop software for businesses.",
+      "exampleRu": "Они разрабатывают программное обеспечение для бизнеса."
+    },
+    {
+      "word": "carry",
+      "transcription": "ˈkæri",
+      "translation": "нести, переносить",
+      "exampleEn": "Can you carry this box?",
+      "exampleRu": "Ты можешь понести эту коробку?"
+    },
+    {
+      "word": "break",
+      "transcription": "breɪk",
+      "translation": "ломать, разбивать",
+      "exampleEn": "Be careful not to break it.",
+      "exampleRu": "Будь осторожен, не сломай это."
+    },
+    {
+      "word": "receive",
+      "transcription": "rɪˈsiːv",
+      "translation": "получать",
+      "exampleEn": "Did you receive my message?",
+      "exampleRu": "Ты получил моё сообщение?"
+    },
+    {
+      "word": "agree",
+      "transcription": "əˈɡriː",
+      "translation": "соглашаться",
+      "exampleEn": "I agree with you.",
+      "exampleRu": "Я с тобой согласен."
+    },
+    {
+      "word": "support",
+      "transcription": "səˈpɔːrt",
+      "translation": "поддерживать",
+      "exampleEn": "I support your decision.",
+      "exampleRu": "Я поддерживаю твоё решение."
+    },
+    {
+      "word": "hit",
+      "transcription": "hɪt",
+      "translation": "ударять, попадать",
+      "exampleEn": "The ball hit the wall.",
+      "exampleRu": "Мяч ударился о стену."
+    },
+    {
+      "word": "produce",
+      "transcription": "prəˈduːs",
+      "translation": "производить",
+      "exampleEn": "This factory produces cars.",
+      "exampleRu": "Эта фабрика производит автомобили."
+    },
+    {
+      "word": "eat",
+      "transcription": "iːt",
+      "translation": "есть",
+      "exampleEn": "I usually eat breakfast at seven.",
+      "exampleRu": "Я обычно завтракаю в семь."
+    },
+    {
+      "word": "drink",
+      "transcription": "drɪŋk",
+      "translation": "пить",
+      "exampleEn": "I drink a lot of water.",
+      "exampleRu": "Я пью много воды."
+    },
+    {
+      "word": "sleep",
+      "transcription": "sliːp",
+      "translation": "спать",
+      "exampleEn": "I usually sleep eight hours.",
+      "exampleRu": "Я обычно сплю восемь часов."
+    },
+    {
+      "word": "drive",
+      "transcription": "draɪv",
+      "translation": "водить, ехать",
+      "exampleEn": "I drive to work every day.",
+      "exampleRu": "Я каждый день езжу на работу."
+    },
+    {
+      "word": "cook",
+      "transcription": "kʊk",
+      "translation": "готовить",
+      "exampleEn": "I cook dinner every evening.",
+      "exampleRu": "Я готовлю ужин каждый вечер."
+    },
+    {
+      "word": "clean",
+      "transcription": "kliːn",
+      "translation": "чистить, убирать",
+      "exampleEn": "I clean my room every week.",
+      "exampleRu": "Я убираю свою комнату каждую неделю."
+    },
+    {
+      "word": "wash",
+      "transcription": "wɑːʃ",
+      "translation": "мыть, стирать",
+      "exampleEn": "Wash your hands before dinner.",
+      "exampleRu": "Помой руки перед ужином."
+    },
+    {
+      "word": "listen",
+      "transcription": "ˈlɪsən",
+      "translation": "слушать",
+      "exampleEn": "Listen to me carefully.",
+      "exampleRu": "Слушай меня внимательно."
+    },
+    {
+      "word": "remember",
+      "transcription": "rɪˈmembər",
+      "translation": "помнить, вспоминать",
+      "exampleEn": "I remember that day.",
+      "exampleRu": "Я помню тот день."
+    },
+    {
+      "word": "forget",
+      "transcription": "fərˈɡet",
+      "translation": "забывать",
+      "exampleEn": "Don't forget your keys.",
+      "exampleRu": "Не забудь свои ключи."
+    },
+    {
+      "word": "choose",
+      "transcription": "tʃuːz",
+      "translation": "выбирать",
+      "exampleEn": "Choose one of these options.",
+      "exampleRu": "Выбери один из этих вариантов."
+    },
+    {
+      "word": "learn",
+      "transcription": "lɜːrn",
+      "translation": "учить, изучать",
+      "exampleEn": "I learn English every day.",
+      "exampleRu": "Я изучаю английский каждый день."
+    },
+    {
+      "word": "teach",
+      "transcription": "tiːtʃ",
+      "translation": "учить, преподавать",
+      "exampleEn": "She teaches English.",
+      "exampleRu": "Она преподаёт английский."
+    },
+    {
+      "word": "understand",
+      "transcription": "ˌʌndərˈstænd",
+      "translation": "понимать",
+      "exampleEn": "Do you understand me?",
+      "exampleRu": "Ты меня понимаешь?"
+    },
+    {
+      "word": "answer",
+      "transcription": "ˈænsər",
+      "translation": "отвечать",
+      "exampleEn": "Please answer my question.",
+      "exampleRu": "Пожалуйста, ответь на мой вопрос."
+    },
+    {
+      "word": "remember",
+      "transcription": "rɪˈmembər",
+      "translation": "помнить",
+      "exampleEn": "Do you remember his name?",
+      "exampleRu": "Ты помнишь его имя?"
+    }
+  ]
+},
+  {
+    "title": "Местоимения",
+    "gradientColors": ["#39C6B3", "#1E8E7E"],
+    "cards": [
+      {"word": "I", "transcription": "aɪ", "translation": "я", "exampleEn": "I am a student.", "exampleRu": "Я студент."},
+      {"word": "you", "transcription": "juː", "translation": "ты, вы", "exampleEn": "You are my friend.", "exampleRu": "Ты мой друг."},
+      {"word": "he", "transcription": "hiː", "translation": "он", "exampleEn": "He works in a bank.", "exampleRu": "Он работает в банке."},
+      {"word": "she", "transcription": "ʃiː", "translation": "она", "exampleEn": "She likes music.", "exampleRu": "Ей нравится музыка."},
+      {"word": "they", "transcription": "ðeɪ", "translation": "они", "exampleEn": "They live in London.", "exampleRu": "Они живут в Лондоне."}
+    ]
+  },
+  {
+    "title": "Неправильные глаголы",
+    "gradientColors": ["#A070F5", "#6339C9"],
+    "cards": [
+      {"word": "go — went — gone", "transcription": "goʊ / went / gɒn", "translation": "идти, ходить", "exampleEn": "She went to Paris last year.", "exampleRu": "В прошлом году она ездила в Париж."},
+      {"word": "take — took — taken", "transcription": "teɪk / tʊk / ˈteɪkən", "translation": "брать", "exampleEn": "He has taken my pen.", "exampleRu": "Он взял мою ручку."},
+      {"word": "see — saw — seen", "transcription": "siː / sɔː / siːn", "translation": "видеть", "exampleEn": "I saw him yesterday.", "exampleRu": "Я видел его вчера."},
+      {"word": "write — wrote — written", "transcription": "raɪt / roʊt / ˈrɪtn", "translation": "писать", "exampleEn": "She wrote a letter.", "exampleRu": "Она написала письмо."}
+    ]
+  },
+  {
+    "title": "Времена",
+    "gradientColors": ["#F6A65B", "#D9782C"],
+    "cards": [
+      {"word": "Present Simple", "transcription": "настоящее простое", "translation": "регулярные действия и факты", "exampleEn": "I work every day.", "exampleRu": "Я работаю каждый день."},
+      {"word": "Past Simple", "transcription": "прошедшее простое", "translation": "законченное действие в прошлом", "exampleEn": "I worked yesterday.", "exampleRu": "Я работал вчера."},
+      {"word": "Future Simple", "transcription": "будущее простое", "translation": "действие в будущем", "exampleEn": "I will work tomorrow.", "exampleRu": "Я буду работать завтра."},
+      {"word": "Present Continuous", "transcription": "настоящее длительное", "translation": "действие происходит сейчас", "exampleEn": "I am working right now.", "exampleRu": "Я сейчас работаю."}
+    ]
+  },
+  {
+    "title": "Прилагательные",
+    "gradientColors": ["#F06BA8", "#C53F84"],
+    "cards": [
+      {"word": "big", "transcription": "bɪg", "translation": "большой", "exampleEn": "This is a big house.", "exampleRu": "Это большой дом."},
+      {"word": "small", "transcription": "smɔːl", "translation": "маленький", "exampleEn": "I have a small dog.", "exampleRu": "У меня маленькая собака."},
+      {"word": "happy", "transcription": "ˈhæpi", "translation": "счастливый", "exampleEn": "She looks happy today.", "exampleRu": "Сегодня она выглядит счастливой."}
+    ]
+  },
+  {
+  "title": "Вопросы",
+  "gradientColors": ["#F06BA8", "#C53F84"],
+  "cards": [
+    {
+      "word": "What?",
+      "transcription": "wɒt",
+      "translation": "Что? Какой?",
+      "exampleEn": "What is your name?",
+      "exampleRu": "Как тебя зовут?"
+    },
+    {
+      "word": "Who?",
+      "transcription": "huː",
+      "translation": "Кто?",
+      "exampleEn": "Who is that man?",
+      "exampleRu": "Кто этот мужчина?"
+    },
+    {
+      "word": "Where?",
+      "transcription": "weə(r)",
+      "translation": "Где? Куда?",
+      "exampleEn": "Where do you live?",
+      "exampleRu": "Где ты живёшь?"
+    },
+    {
+      "word": "When?",
+      "transcription": "wen",
+      "translation": "Когда?",
+      "exampleEn": "When do you start work?",
+      "exampleRu": "Когда ты начинаешь работу?"
+    },
+    {
+      "word": "Why?",
+      "transcription": "waɪ",
+      "translation": "Почему? Зачем?",
+      "exampleEn": "Why are you late?",
+      "exampleRu": "Почему ты опоздал?"
+    },
+    {
+      "word": "Which?",
+      "transcription": "wɪtʃ",
+      "translation": "Который? Какой из?",
+      "exampleEn": "Which one do you want?",
+      "exampleRu": "Какой ты хочешь?"
+    },
+    {
+      "word": "Whose?",
+      "transcription": "huːz",
+      "translation": "Чей?",
+      "exampleEn": "Whose phone is this?",
+      "exampleRu": "Чей это телефон?"
+    },
+    {
+      "word": "How?",
+      "transcription": "haʊ",
+      "translation": "Как?",
+      "exampleEn": "How are you?",
+      "exampleRu": "Как ты?"
+    },
+    {
+      "word": "How much?",
+      "transcription": "haʊ mʌtʃ",
+      "translation": "Сколько? (неисчисляемое)",
+      "exampleEn": "How much water do you drink?",
+      "exampleRu": "Сколько воды ты пьёшь?"
+    },
+    {
+      "word": "How many?",
+      "transcription": "haʊ ˈmeni",
+      "translation": "Сколько? (исчисляемое)",
+      "exampleEn": "How many books do you have?",
+      "exampleRu": "Сколько у тебя книг?"
+    },
+    {
+      "word": "How long?",
+      "transcription": "haʊ lɒŋ",
+      "translation": "Как долго? Сколько времени?",
+      "exampleEn": "How long does it take?",
+      "exampleRu": "Сколько времени это занимает?"
+    },
+    {
+      "word": "How often?",
+      "transcription": "haʊ ˈɒfən",
+      "translation": "Как часто?",
+      "exampleEn": "How often do you exercise?",
+      "exampleRu": "Как часто ты занимаешься спортом?"
+    },
+    {
+      "word": "How far?",
+      "transcription": "haʊ fɑː(r)",
+      "translation": "Как далеко?",
+      "exampleEn": "How far is the station?",
+      "exampleRu": "Как далеко находится станция?"
+    },
+    {
+      "word": "How old?",
+      "transcription": "haʊ əʊld",
+      "translation": "Сколько лет?",
+      "exampleEn": "How old are you?",
+      "exampleRu": "Сколько тебе лет?"
+    },
+    {
+      "word": "What time?",
+      "transcription": "wɒt taɪm",
+      "translation": "Во сколько? В какое время?",
+      "exampleEn": "What time do you get up?",
+      "exampleRu": "Во сколько ты встаёшь?"
+    },
+    {
+      "word": "What kind of?",
+      "transcription": "wɒt kaɪnd əv",
+      "translation": "Какой вид? Какого типа?",
+      "exampleEn": "What kind of music do you like?",
+      "exampleRu": "Какую музыку ты любишь?"
+    },
+    {
+      "word": "What for?",
+      "transcription": "wɒt fɔː(r)",
+      "translation": "Зачем? Для чего?",
+      "exampleEn": "What do you need this for?",
+      "exampleRu": "Зачем тебе это?"
+    },
+    {
+      "word": "What about?",
+      "transcription": "wɒt əˈbaʊt",
+      "translation": "А как насчёт?",
+      "exampleEn": "What about tomorrow?",
+      "exampleRu": "А как насчёт завтра?"
+    },
+    {
+      "word": "How about?",
+      "transcription": "haʊ əˈbaʊt",
+      "translation": "Как насчёт?",
+      "exampleEn": "How about some coffee?",
+      "exampleRu": "Как насчёт кофе?"
+    },
+    {
+      "word": "Why not?",
+      "transcription": "waɪ nɒt",
+      "translation": "Почему бы и нет?",
+      "exampleEn": "Why not go together?",
+      "exampleRu": "Почему бы не пойти вместе?"
+    },
+    {
+      "word": "How much is it?",
+      "transcription": "haʊ mʌtʃ ɪz ɪt",
+      "translation": "Сколько это стоит?",
+      "exampleEn": "How much is it?",
+      "exampleRu": "Сколько это стоит?"
+    },
+    {
+      "word": "How much does it cost?",
+      "transcription": "haʊ mʌtʃ dʌz ɪt kɒst",
+      "translation": "Сколько это стоит?",
+      "exampleEn": "How much does it cost?",
+      "exampleRu": "Сколько это стоит?"
+    },
+    {
+      "word": "What happened?",
+      "transcription": "wɒt ˈhæpənd",
+      "translation": "Что случилось?",
+      "exampleEn": "What happened here?",
+      "exampleRu": "Что здесь случилось?"
+    },
+    {
+      "word": "What do you mean?",
+      "transcription": "wɒt duː juː miːn",
+      "translation": "Что ты имеешь в виду?",
+      "exampleEn": "What do you mean?",
+      "exampleRu": "Что ты имеешь в виду?"
+    },
+    {
+      "word": "What do you think?",
+      "transcription": "wɒt duː juː θɪŋk",
+      "translation": "Что ты думаешь?",
+      "exampleEn": "What do you think about it?",
+      "exampleRu": "Что ты думаешь об этом?"
+    },
+    {
+      "word": "What do you want?",
+      "transcription": "wɒt duː juː wɒnt",
+      "translation": "Чего ты хочешь?",
+      "exampleEn": "What do you want to eat?",
+      "exampleRu": "Что ты хочешь поесть?"
+    },
+    {
+      "word": "What do you need?",
+      "transcription": "wɒt duː juː niːd",
+      "translation": "Что тебе нужно?",
+      "exampleEn": "What do you need?",
+      "exampleRu": "Что тебе нужно?"
+    },
+    {
+      "word": "Where are you?",
+      "transcription": "weə(r) ɑː juː",
+      "translation": "Где ты?",
+      "exampleEn": "Where are you now?",
+      "exampleRu": "Где ты сейчас?"
+    },
+    {
+      "word": "Where are you going?",
+      "transcription": "weə(r) ɑː juː ˈɡəʊɪŋ",
+      "translation": "Куда ты идёшь?",
+      "exampleEn": "Where are you going?",
+      "exampleRu": "Куда ты идёшь?"
+    },
+    {
+      "word": "Where did you go?",
+      "transcription": "weə(r) dɪd juː ɡəʊ",
+      "translation": "Куда ты ходил?",
+      "exampleEn": "Where did you go yesterday?",
+      "exampleRu": "Куда ты ходил вчера?"
+    },
+    {
+      "word": "When did it happen?",
+      "transcription": "wen dɪd ɪt ˈhæpən",
+      "translation": "Когда это произошло?",
+      "exampleEn": "When did it happen?",
+      "exampleRu": "Когда это произошло?"
+    },
+    {
+      "word": "Who is this?",
+      "transcription": "huː ɪz ðɪs",
+      "translation": "Кто это?",
+      "exampleEn": "Who is this person?",
+      "exampleRu": "Кто этот человек?"
+    },
+    {
+      "word": "Why did you do that?",
+      "transcription": "waɪ dɪd juː duː ðæt",
+      "translation": "Почему ты это сделал?",
+      "exampleEn": "Why did you do that?",
+      "exampleRu": "Почему ты это сделал?"
+    },
+    {
+      "word": "How do you know?",
+      "transcription": "haʊ duː juː nəʊ",
+      "translation": "Откуда ты знаешь?",
+      "exampleEn": "How do you know about this?",
+      "exampleRu": "Откуда ты знаешь об этом?"
+    },
+    {
+      "word": "How can I...?",
+      "transcription": "haʊ kən aɪ",
+      "translation": "Как я могу...?",
+      "exampleEn": "How can I help you?",
+      "exampleRu": "Как я могу вам помочь?"
+    },
+    {
+      "word": "Can I...?",
+      "transcription": "kən aɪ",
+      "translation": "Могу я...? Можно мне...?",
+      "exampleEn": "Can I ask you a question?",
+      "exampleRu": "Можно я задам тебе вопрос?"
+    },
+    {
+      "word": "Could you...?",
+      "transcription": "kʊd juː",
+      "translation": "Не могли бы вы...?",
+      "exampleEn": "Could you help me?",
+      "exampleRu": "Не могли бы вы мне помочь?"
+    },
+    {
+      "word": "Would you...?",
+      "transcription": "wʊd juː",
+      "translation": "Не могли бы вы...? Вы бы...?",
+      "exampleEn": "Would you like some tea?",
+      "exampleRu": "Хотите чаю?"
+    },
+    {
+      "word": "Do you...?",
+      "transcription": "duː juː",
+      "translation": "Ты...? Вы...?",
+      "exampleEn": "Do you speak English?",
+      "exampleRu": "Ты говоришь по-английски?"
+    },
+    {
+      "word": "Are you...?",
+      "transcription": "ɑː juː",
+      "translation": "Ты...? Вы...?",
+      "exampleEn": "Are you ready?",
+      "exampleRu": "Ты готов?"
+    },
+    {
+      "word": "Did you...?",
+      "transcription": "dɪd juː",
+      "translation": "Ты...? Вы...? (прошедшее)",
+      "exampleEn": "Did you see him?",
+      "exampleRu": "Ты видел его?"
+    },
+    {
+      "word": "Have you...?",
+      "transcription": "hæv juː",
+      "translation": "Ты...? Вы...? (уже/к настоящему моменту)",
+      "exampleEn": "Have you finished?",
+      "exampleRu": "Ты закончил?"
+    }
+  ]
+}
+]
